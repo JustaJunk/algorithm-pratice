@@ -1,5 +1,5 @@
-int getNthFib(int n) {
-
+int getNthFib(int n)
+{
 	if (n<1) 
 		return -1;
 

@@ -1,6 +1,8 @@
 # Commit log
 
 ```
+20200305-2  Add Cpp/BranchSums.cpp
+
 20200305-1  Add Cpp/DepthFirstSearch.cpp
 
 20200302-2  Add Cpp/FindClosetValueInBST.cpp

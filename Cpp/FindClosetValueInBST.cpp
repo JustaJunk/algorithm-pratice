@@ -1,7 +1,8 @@
 #include <cmath>
 using namespace std;
 
-class BST {
+class BST
+{
 public:
 	int value;
 	BST *left;

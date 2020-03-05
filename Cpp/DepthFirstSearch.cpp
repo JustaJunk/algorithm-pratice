@@ -1,8 +1,8 @@
 #include <vector>
 using namespace std;
 
-class Node {
-
+class Node 
+{
 public:
 	string name;
 	vector<Node *> children;
@@ -28,5 +28,4 @@ public:
 		children.push_back(child);
 		return this;
 	}
-	
 };
