@@ -1,8 +1,8 @@
 # algorithm-pratice
 
 ## Easy
-two number sum
-nth Fibonacci
-find closet value in BST
-depth first search
-branch sums
+Two Number Sum
+Nth Fibonacci
+Find Closet Value In BST
+Depth First Search
+Branch Sums
