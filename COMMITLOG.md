@@ -1,6 +1,8 @@
 # Commit log
 
 ```
+20200306-2  Add Cpp/CaesarCipherEncryptor.cpp
+
 20200306-1  Refactoring
 
 20200305-2  Add Cpp/BranchSums.cpp
