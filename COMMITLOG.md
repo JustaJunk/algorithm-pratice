@@ -1,6 +1,8 @@
 # Commit log
 
 ```
+20200317-1  Add Cpp/KadanesAlgorithm.cpp
+
 20200308-1  Add Cpp/SmallestDifference.cpp
 
 20200306-2  Add Cpp/CaesarCipherEncryptor.cpp

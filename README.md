@@ -9,4 +9,5 @@ Branch Sums
 Caesar Cipher Encryptor  
 
 ## Medium
-Smallest Difference
+Smallest Difference  
+Kadane's Algorithm  
