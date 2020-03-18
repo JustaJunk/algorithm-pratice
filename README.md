@@ -8,6 +8,7 @@ Depth First Search
 Branch Sums  
 Caesar Cipher Encryptor  
 Binary Search  
+Palindrome Check  
 
 ## Medium
 Smallest Difference  

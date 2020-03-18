@@ -1,6 +1,8 @@
 # Commit log
 
 ```
+20200318-4  Add Cpp/PalindromeCheck.cpp
+
 20200318-3  Add Cpp/BinarySearch.cpp
 
 20200318-2  Add Cpp/BalancedBrackets.cpp
