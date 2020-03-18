@@ -1,6 +1,8 @@
 # Commit log
 
 ```
+20200318-1  Add directory easy and medium in Cpp
+
 20200317-1  Add Cpp/KadanesAlgorithm.cpp
 
 20200308-1  Add Cpp/SmallestDifference.cpp
