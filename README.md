@@ -11,3 +11,4 @@ Caesar Cipher Encryptor
 ## Medium
 Smallest Difference  
 Kadane's Algorithm  
+Balanced Brackets  
