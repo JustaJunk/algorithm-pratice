@@ -1,6 +1,8 @@
 # Commit log
 
 ```
+20200321-1  Add Cpp/SingleCycleCheck.cpp
+
 20200320-4  Add Cpp/RemoveKthNodeFromEnd.cpp
 
 20200320-3  Add Cpp/NumberOfWaysToMakeChange.cpp
