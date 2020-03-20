@@ -15,4 +15,5 @@ Smallest Difference
 Kadane's Algorithm  
 Balanced Brackets  
 Move Element To End  
+Number Of Ways To Make Change  
 Min Number Of Coins For Change  

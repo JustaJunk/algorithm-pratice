@@ -14,16 +14,18 @@ int minNumberOfCoinsForChange(int n, vector<int> denoms)
 	vector<int> minCoinsForN(n+1, -1); //--- -1 stands for infinity
 	minCoinsForN[0] = 0;
 	int subResult;
-	for (int d = 0; d < denoms.size(); ++d)
+	
+	for (int d : denoms)
 	{
 		for (int i = 1; i <= n; ++i)	
 		{
-			if (denoms[d] <= i)
+			if (d <= i)
 			{
-				subResult = minCoinsForN[i-denoms[d]];
+				int &currentMin = minCoinsForN[i];
+				subResult = minCoinsForN[i-d];
 				if (subResult != -1 && 
-					(minCoinsForN[i] == -1 || subResult+1 < minCoinsForN[i]))
-					minCoinsForN[i] = subResult+1;
+					(currentMin == -1 || subResult+1 < currentMin))
+					currentMin = subResult+1;
 			}
 		}
 	}	
