@@ -17,10 +17,10 @@ public:
 	BST &insert(int val);
 };
 
-static BST* nextBST(BST *currentBST, 
-					int target,
-					int &currentValue,
-					int &currentAbsDiff);
+BST* nextBST(BST *currentBST, 
+			 int target,
+			 int &currentValue,
+			 int &currentAbsDiff);
 
 int findClosestValueInBst(BST *tree, int target)
 {
@@ -41,10 +41,10 @@ int findClosestValueInBst(BST *tree, int target)
 	return currentValue; 
 }
 
-static BST* nextBST(BST *currentBST, 
-					int target,
-					int &currentValue,
-					int &currentAbsDiff)
+BST* nextBST(BST *currentBST, 
+			 int target,
+			 int &currentValue,
+			 int &currentAbsDiff)
 {
 	int diff = currentBST->value - target;
 	if (abs(diff) < currentAbsDiff)

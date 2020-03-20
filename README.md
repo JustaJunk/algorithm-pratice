@@ -14,3 +14,4 @@ Palindrome Check
 Smallest Difference  
 Kadane's Algorithm  
 Balanced Brackets  
+Move Element To End  

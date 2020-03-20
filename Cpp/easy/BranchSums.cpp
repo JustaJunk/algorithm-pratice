@@ -19,9 +19,9 @@ public:
 	}
 };
 
-static void branchAdder(BinaryTree 	*node,
-						int 		preSum,
-						vector<int> &sumVec);
+void branchAdder(BinaryTree 	*node,
+				 int 			preSum,
+				 vector<int> 	&sumVec);
 
 vector<int> branchSums(BinaryTree *root) {
 
@@ -32,9 +32,9 @@ vector<int> branchSums(BinaryTree *root) {
 	return sumVec;
 }
 
-static void branchAdder(BinaryTree 	*node,
-						int 		preSum,
-						vector<int> &sumVec)
+void branchAdder(BinaryTree 	*node,
+				 int 			preSum,
+				 vector<int> 	&sumVec)
 {
 	if (!node)
 		return;
