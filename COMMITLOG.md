@@ -1,6 +1,8 @@
 # Commit log
 
 ```
+20200320-2  Add Cpp/MinNumberOfCoinsForChange.cpp
+
 20200320-1  Add Cpp/MoveElementToEnd.cpp
 
 20200318-4  Add Cpp/PalindromeCheck.cpp
