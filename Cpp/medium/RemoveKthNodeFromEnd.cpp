@@ -24,19 +24,19 @@ void removeKthNodeFromEnd(LinkedList *head, int k)
 
 	for (int i = 0; i < k; ++i)
 	{
-		if (atherK == NULL)
+		if (atherK == nullptr)
 			return;
 		atherK = atherK->next;	
 	}
 
-	if (atherK == NULL)
+	if (atherK == nullptr)
 	{
 		head->value = head->next->value;
 		head->next = head->next->next;
 		return;
 	}
 
-	while(atherK->next != NULL)
+	while(atherK->next != nullptr)
 	{
 		current = current->next;
 		atherK = atherK->next;

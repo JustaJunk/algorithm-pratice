@@ -14,8 +14,8 @@ public:
 
 	BinaryTree(int value) {
 		this->value = value;
-		this->left = NULL;
-		this->right = NULL;
+		this->left = nullptr;
+		this->right = nullptr;
 	}
 };
 
@@ -41,7 +41,7 @@ void branchAdder(BinaryTree 	*node,
 
 	int nodeSum = preSum + node->value;
 
-	if (node->left == NULL && node->right == NULL)
+	if (node->left == nullptr && node->right == nullptr)
 	{
 		sumVec.push_back(nodeSum);
 		return;

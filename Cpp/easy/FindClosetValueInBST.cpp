@@ -58,5 +58,5 @@ BST* nextBST(BST *currentBST,
 	else if (diff < 0)
 		return currentBST->right;
 	else 
-		return NULL;
+		return nullptr;
 }
