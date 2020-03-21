@@ -1,6 +1,12 @@
 # Commit log
 
 ```
+20200322-3  Add Cpp/InsertionSort.cpp
+
+>> Add Cpp/InsertionSort.cpp
+>> Modify Cpp/SelectionSort.cpp for second method
+>> Modify README.md for misclassification
+
 20200322-2  Replace NULL by nullptr
 
 20200322-1  Add Cpp/SelectionSort.cpp

@@ -14,7 +14,7 @@ vector<int> bubbleSort(vector<int> array)
 	int  topNum = 0;
 	while(topNum != array.size()-1)
 	{
-		for (auto iter = array.begin(); iter != array.end()-1-topNum; iter++)
+		for (auto iter = array.begin(); iter != array.end()-1-topNum; ++iter)
 		{
 			if (*iter > *(iter+1))
 				iter_swap(iter, iter+1);
