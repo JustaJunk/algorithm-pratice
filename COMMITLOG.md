@@ -1,6 +1,8 @@
 # Commit log
 
 ```
+20200322-1  Add Cpp/SelectionSort.cpp
+
 20200321-2  Add Cpp/BubbleSort.cpp
 
 20200321-1  Add Cpp/SingleCycleCheck.cpp
