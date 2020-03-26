@@ -1,6 +1,8 @@
 # Commit log
 
 ```
+20200326-1  Add Cpp/hard/FindLoop.cpp
+
 20200322-3  Add Cpp/InsertionSort.cpp
 
 >> Add Cpp/InsertionSort.cpp
