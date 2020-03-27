@@ -1,6 +1,8 @@
 # Commit log
 
 ```
+20200327-2  Add Cpp/easy/ProductSum.cpp
+
 20200327-1  Add comment
 
 20200326-1  Add Cpp/hard/FindLoop.cpp
