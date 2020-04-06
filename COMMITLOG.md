@@ -1,6 +1,8 @@
 # Commit log
 
 ```
+20200406-1  Add Cpp/medium/LongestPalindromicSubstring.cpp
+
 20200327-2  Add Cpp/easy/ProductSum.cpp
 
 20200327-1  Add comment

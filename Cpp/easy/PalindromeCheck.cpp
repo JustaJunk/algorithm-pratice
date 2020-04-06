@@ -5,8 +5,8 @@
 //#####################################################
 using namespace std;
 
-bool isPalindrome(string str) {
-
+bool isPalindrome(string str)
+{
 	if (str.empty())
 		return true;
 
