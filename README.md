@@ -26,6 +26,7 @@ Remove Kth Node From End
 Single Cycle Check  
 Longest Palindromic Substring  
 Spiral Traverse  
+Max Subset Sum No Adjacent  
 
 ## Hard
 Find Loop  
