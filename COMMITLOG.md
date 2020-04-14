@@ -1,6 +1,8 @@
 # Commit log
 
 ```
+20200414-3  Add Cpp/hard/MergeLinkedLists.cpp
+
 20200414-2  Add Cpp/hard/ReverseLinkedList.cpp
 
 20200414-1  Add Cpp/hard/WaterArea.cpp
