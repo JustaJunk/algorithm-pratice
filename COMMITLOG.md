@@ -1,6 +1,8 @@
 # Commit log
 
 ```
+20200414-1  Add Cpp/hard/WaterArea.cpp
+
 20200406-4  Add Cpp/medium/MaxSubsetSumNoAdjacent.cpp
 
 20200406-3  Add Cpp/medium/SpiralTraverse.cpp
